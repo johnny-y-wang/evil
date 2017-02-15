@@ -11,7 +11,7 @@ curl -L 'https://github.com/mathiasbynens/evil.sh/raw/master/evil.sh' > $evilsh
 osascript -e 'tell application "Safari"' -e 'quit' -e 'end tell'
 sleep 1
 
-defaults write "com.apple.Safari" "WebKitUserStyleSheetLocationPreferenceKey" "$file"
+defaults write "com.apple.Safari" "WebKitUserStyleSheetLocationPreferenceKey" $file
 defaults write "com.apple.Safari" "WebKitUserStyleSheetEnabledPreferenceKey" "1"
 
 clear
